@@ -1,0 +1,18 @@
+{
+    "none": {
+        "Source": [
+            "Source/Delirium_precompiled.cpp",
+            "Source/Delirium_precompiled.h"
+        ]
+    },
+    "auto": {
+        "Include": [
+            "Include/Delirium/DeliriumBus.h"
+        ],
+        "Source": [
+            "Source/DeliriumModule.cpp",
+            "Source/DeliriumSystemComponent.cpp",
+            "Source/DeliriumSystemComponent.h"
+        ]
+    }
+}
